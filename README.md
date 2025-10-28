@@ -54,10 +54,8 @@ Using **SQL** for data processing and **Power BI** for visualization, the analys
 
 ---
 
-## 👤 Author
-
-**Mohd Saquib Azam**
-Data Analyst | SQL | Power BI | Excel | Python
+**Prepared by:** Mohd Saquib Azam  
+**Tools Used:** SQL, Power BI, Excel  
 
 
 ---
