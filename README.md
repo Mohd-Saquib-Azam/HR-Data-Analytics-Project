@@ -47,10 +47,10 @@ Using **SQL** for data processing and **Power BI** for visualization, the analys
 
 ## 📂 Files in This Repository
 
-* `HR Data Analytics Report.pdf` — Detailed report with insights and recommendations
-* `HR DATA ANALYTICS DASHBOARD.png` — Final Power BI dashboard visualization
-* `SQL Queries.sql` — SQL queries used for analysis
-* `README.md` — Project documentation
+- [HR Data Analytics Report.pdf](./HR%20Data%20Analytics%20Report.pdf) — Detailed report with insights and recommendations  
+- [HR DATA ANALYTICS DASHBOARD.png](./HR%20DATA%20ANALYTICS%20DASHBOARD.png) — Final Power BI dashboard visualization  
+- [README.md](./README.md) — Project documentation
+
 
 ---
 
